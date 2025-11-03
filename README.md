@@ -1,4 +1,3 @@
-# Smartspend_prototype
 # SmartSpend — Prototype
 
 Small Streamlit prototype for SmartSpend — AI-driven UPI expense tracker.

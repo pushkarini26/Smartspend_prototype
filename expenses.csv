@@ -1,0 +1,10 @@
+date,amount,note,merchant,category
+2025-11-03 00:00:00,200.0,,cafe,Food
+2025-11-03 00:00:00,2500.0,,Trends,Other
+2025-11-03 00:00:00,2500.0,,Amazon,Shopping
+2025-11-03 22:54:17,50.0,Offline -> friend,Peer,Other
+2025-11-03 22:54:30,50.0,Offline -> friend,Peer,Other
+2025-11-03 00:00:00,200.0,hospital,medicine,Other
+2025-11-03 23:14:13,50.0,Offline -> Split dinner,Sneha's Watch,Other
+2025-11-03 23:24:38,100.0,Payment via SmartSpend,9876543210,Other
+2025-11-03 23:24:53,0.0,home,rent,Bills
